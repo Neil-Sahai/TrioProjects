@@ -74,7 +74,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="8"/>
         </properties>
       </component>
       <component id="5a44b" class="javax.swing.JButton" binding="button9" default-binding="true">
@@ -83,7 +84,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="9"/>
         </properties>
       </component>
       <component id="4c20a" class="javax.swing.JButton" binding="buttonDecimal">
@@ -92,7 +94,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="."/>
         </properties>
       </component>
       <component id="b96ad" class="javax.swing.JButton" binding="button0">
@@ -101,7 +104,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="0"/>
         </properties>
       </component>
       <component id="e2ef1" class="javax.swing.JButton" binding="buttonEqual">
@@ -110,7 +114,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="="/>
         </properties>
       </component>
       <component id="fb342" class="javax.swing.JButton" binding="buttonAddition">
@@ -119,7 +124,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="+"/>
         </properties>
       </component>
       <component id="43eb9" class="javax.swing.JButton" binding="buttonSubtraction">
@@ -128,7 +134,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="-"/>
         </properties>
       </component>
       <component id="f9f4b" class="javax.swing.JButton" binding="buttonMultiplication">
@@ -137,7 +144,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="x"/>
         </properties>
       </component>
       <component id="2e3e1" class="javax.swing.JButton" binding="buttonDivision">
@@ -146,7 +154,8 @@
           <gridbag weightx="1.0" weighty="1.0"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Arial Black" size="36"/>
+          <text value="÷"/>
         </properties>
       </component>
       <component id="d40ec" class="javax.swing.JButton" binding="button5" default-binding="true">
